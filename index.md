@@ -20,11 +20,11 @@ Public Speaking
 Data Science
 
 ## SKILLS	                   
-•	Communication                                                                  
-•	Excel and Power Point
-•	Chess 
-•	Tableau
-•	Customer Service Skills
+1•	Communication                                                                  
+2•	Excel and Power Point
+3•	Chess 
+4•	Tableau
+5•	Customer Service Skills
 
 ## EXPERIENCE
 1.	Lahore Learners Academy – I have worked as Part Time Teacher. I have taught Subject like English and Physics.
@@ -37,5 +37,5 @@ Data Science
  <p>University of Punjab- Graduation Cont. </p>
 
 ## Internship
-1•	LUMS SRP (Social Responsibility Program)
-2•	Care Foundation 
+<p> 1•	LUMS SRP (Social Responsibility Program) </p>
+<p> 2•	Care Foundation </p>
