@@ -32,9 +32,9 @@ Data Science
 3.	Mind Bridge – In Mind Bridge, I worked in Talabat Campaign. Talabat is Middle East Food Campaign.  This is similar to Food Panda in Pakistan.
 
 ## EDUCATION
-### MOON PUBLIC SCHOOL - MATRICULATION
-### GOVT. ISLAMIA COLLEGE CIVIL LINES - INTERMEDIATE
-### University of Punjab- Graduation Cont. 
+## MOON PUBLIC SCHOOL - MATRICULATION
+## GOVT. ISLAMIA COLLEGE CIVIL LINES - INTERMEDIATE
+## University of Punjab- Graduation Cont. 
 
 ## Internship
 1•	LUMS SRP (Social Responsibility Program)
