@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Curriculum Vitae
 
-You can use the [editor on GitHub](https://github.com/Khuram023514/khuram_cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Personal Information
 
-### Markdown
+<p> KHURAM SHAHZAD
+HOUSE NO 72/A – STREET NO 45 – QILA MUHAMMADI RAVI ROAD LAHORE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+(92) 342-4838375
 
-```markdown
-Syntax highlighted code block
+khuramcool08@gmail.com </p> 
+## OBJECTIVE
+•	I am passionate about working, learning and honing our skills. This is a Rapid Advance World leaping along technology. I should be a part of this world and mark my signs.
+•	To be an expert in my area of work, with passion for challenges, innovation and working with people and communities.
+•	 Seeking a role, where I will be able to apply my skills, work experience in project management by making a difference through quality, with strict adherence in achieving the organizational goals. 
 
-# Header 1
-## Header 2
-### Header 3
+## Interests
+Public Speaking
+Data Science
 
-- Bulleted
-- List
+## SKILLS	                   
+•	Communication                                                                  
+•	Excel and Power Point
+•	Chess 
+•	Tableau
+•	Customer Service Skills
 
-1. Numbered
-2. List
+## EXPERIENCE
+1.	Lahore Learners Academy – I have worked as Part Time Teacher. I have taught Subject like English and Physics.
+2.	Abacus – I worked Back End Executive for Careem, working in Live Chat and Email Support, dealing with customers and captains, dealing with their ongoing issues.
+3.	Mind Bridge – In Mind Bridge, I worked in Talabat Campaign. Talabat is Middle East Food Campaign.  This is similar to Food Panda in Pakistan.
 
-**Bold** and _Italic_ and `Code` text
+## EDUCATION
+### MOON PUBLIC SCHOOL - MATRICULATION
+### GOVT. ISLAMIA COLLEGE CIVIL LINES - INTERMEDIATE
+### University of Punjab- Graduation Cont. 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Khuram023514/khuram_cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Internship
+•	LUMS SRP (Social Responsibility Program)
+•	Care Foundation 
