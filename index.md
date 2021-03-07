@@ -10,9 +10,10 @@ HOUSE NO 72/A – STREET NO 45 – QILA MUHAMMADI RAVI ROAD LAHORE
 
 khuramcool08@gmail.com </p> 
 ## OBJECTIVE
-•	I am passionate about working, learning and honing our skills. This is a Rapid Advance World leaping along technology. I should be a part of this world and mark my signs.
-•	To be an expert in my area of work, with passion for challenges, innovation and working with people and communities.
-•	 Seeking a role, where I will be able to apply my skills, work experience in project management by making a difference through quality, with strict adherence in achieving the organizational goals. 
+1•	I am passionate about working, learning and honing our skills. This is a Rapid Advance World leaping along technology. 
+  I should be a part of this world and mark my signs.
+2•	To be an expert in my area of work, with passion for challenges, innovation and working with people and communities.
+3•	 Seeking a role, where I will be able to apply my skills, work experience in project management by making a difference through quality, with strict adherence in achieving the organizational goals. 
 
 ## Interests
 Public Speaking
@@ -36,5 +37,5 @@ Data Science
 ### University of Punjab- Graduation Cont. 
 
 ## Internship
-•	LUMS SRP (Social Responsibility Program)
-•	Care Foundation 
+1•	LUMS SRP (Social Responsibility Program)
+2•	Care Foundation 
